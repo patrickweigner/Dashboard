@@ -1,0 +1,5 @@
+nicegui==3.8.0
+pandas>=2.0
+openpyxl>=3.1
+requests>=2.31
+pywebview>=5.0
